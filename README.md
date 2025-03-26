@@ -1,7 +1,3 @@
-Here is a **README.md** file for your **subscription-based shared cab service** project. It includes **project details, setup instructions, configuration settings, and deployment information**.  
-
----
-
 # **Subscription-Based Shared Cab Service - RozKa** 🚖  
 
 A **subscription-based ride-sharing platform** that provides **scheduled, fixed-route cab services** for daily commuters. Users can **subscribe to monthly plans, book rides, track cabs in real-time, and manage their profiles seamlessly**.
